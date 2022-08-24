@@ -80,7 +80,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="https://docs.google.com/document/d/1n-MMAiHiAc_cydI5w5kDzbhbEwTcXcJAYleicgBhmqY/edit#heading=h.x8fm1uorkbaw/export?format=pdf"
+                href="https://drive.google.com/file/d/1AJqpWed3zRhgwPCiQkpvTq55vbxuHhOm/view?usp=drivesdk"
               >
                 <CgFileDocument style={{ marginBottom: "2px" }} /> Resume
               </Nav.Link>
@@ -88,7 +88,7 @@ function NavBar() {
 
             <Nav.Item className="fork-btn">
               <Button
-                href="https://github.com/anuj-bishtt/Portfolio"
+                href="https://github.com/anuj-bishtt"
                 target="_blank"
                 className="fork-btn-inner"
               >
