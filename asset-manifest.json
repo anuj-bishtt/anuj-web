@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/anuj-web/static/css/main.04859f3d.css",
-    "main.js": "/anuj-web/static/js/main.42849c12.js",
+    "main.js": "/anuj-web/static/js/main.a538e712.js",
     "static/js/415.fc063c41.chunk.js": "/anuj-web/static/js/415.fc063c41.chunk.js",
     "static/js/787.f6e65957.chunk.js": "/anuj-web/static/js/787.f6e65957.chunk.js",
     "static/media/home-dealer.png": "/anuj-web/static/media/home-dealer.daf1f4993c6ce4480cdf.png",
@@ -17,12 +17,12 @@
     "index.html": "/anuj-web/index.html",
     "static/media/pre.svg": "/anuj-web/static/media/pre.4410c5baaa673cc131da.svg",
     "main.04859f3d.css.map": "/anuj-web/static/css/main.04859f3d.css.map",
-    "main.42849c12.js.map": "/anuj-web/static/js/main.42849c12.js.map",
+    "main.a538e712.js.map": "/anuj-web/static/js/main.a538e712.js.map",
     "415.fc063c41.chunk.js.map": "/anuj-web/static/js/415.fc063c41.chunk.js.map",
     "787.f6e65957.chunk.js.map": "/anuj-web/static/js/787.f6e65957.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.04859f3d.css",
-    "static/js/main.42849c12.js"
+    "static/js/main.a538e712.js"
   ]
 }
