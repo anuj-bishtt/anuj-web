@@ -5,6 +5,7 @@ import Container from "react-bootstrap/Container";
 import Button from "react-bootstrap/Button";
 import { Link } from "react-router-dom";
 import { CgGitFork } from "react-icons/cg";
+import { FaWpforms } from "react-icons/fa";
 // import { ImBlog } from "react-icons/im";
 import {
   AiFillStar,
@@ -68,6 +69,16 @@ function NavBar() {
             <Nav.Item>
               <Nav.Link
                 as={Link}
+                to="/form"
+                onClick={() => updateExpanded(false)}
+              >
+                <FaWpforms style={{ marginBottom: "2px" }} /> Contact Me
+              </Nav.Link>
+            </Nav.Item>
+
+            <Nav.Item>
+              <Nav.Link
+                as={Link}
                 to="/project"
                 onClick={() => updateExpanded(false)}
               >
@@ -80,7 +91,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="https://drive.google.com/file/d/1AJqpWed3zRhgwPCiQkpvTq55vbxuHhOm/view?usp=drivesdk"
+                href="https://drive.google.com/file/d/1GifLUE48VCrY-kaq6wfof-VPXFItvgTL/view?usp=drivesdk"
               >
                 <CgFileDocument style={{ marginBottom: "2px" }} /> Resume
               </Nav.Link>
