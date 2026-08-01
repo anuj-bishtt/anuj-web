@@ -91,7 +91,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="https://drive.google.com/file/d/1GifLUE48VCrY-kaq6wfof-VPXFItvgTL/view?usp=drivesdk"
+                href="https://drive.google.com/file/d/1jLUNxgF932vEdNE1TGG_yrp-B8yuNtBa/view?usp=drivesdk"
                 target="_blank"
               >
                 <CgFileDocument style={{ marginBottom: "2px" }} /> Resume
